@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"AAAAA,SAASC,MAAM","sources":["webpack://webpack/./src/index.js"],"sourcesContent":["document.write('Hello, world!');"],"names":["document","write"],"sourceRoot":""}
